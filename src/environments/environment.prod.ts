@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://api.development.zetta-demo.space/graphql',
+  apiUrl: 'https://api.074.zetta-demo.space/graphql',
   tokenKey: 'token',
 };
